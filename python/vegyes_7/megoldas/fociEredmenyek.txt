@@ -1,0 +1,140 @@
+Csapat neve: Juventus
+Bajnoki helyezés: 25
+Edzések/pihenések száma: 3/3 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 10.899999999999999
+Új Energia Szint: -0.8000000000000003
+*******************************
+Csapat neve: FC Barcelona
+Bajnoki helyezés: 6
+Edzések/pihenések száma: 7/6 db
+Játék eredménye: NYERT
+Új Edzettségi Szint: 9.4
+Új Energia Szint: -4.42
+*******************************
+Csapat neve: Real Madrid
+Bajnoki helyezés: 6
+Edzések/pihenések száma: 3/2 db
+Játék eredménye: DÖNTETLEN
+Új Edzettségi Szint: 9.200000000000001
+Új Energia Szint: -1.2600000000000002
+*******************************
+Csapat neve: Ferencváros
+Bajnoki helyezés: 13
+Edzések/pihenések száma: 6/6 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.0
+Új Energia Szint: -8.86
+*******************************
+Csapat neve: Bayern München
+Bajnoki helyezés: 15
+Edzések/pihenések száma: 5/4 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.6
+Új Energia Szint: 0.09999999999999964
+*******************************
+Csapat neve: Magyarország
+Bajnoki helyezés: 7
+Edzések/pihenések száma: 4/2 db
+Játék eredménye: NYERT
+Új Edzettségi Szint: 9.2
+Új Energia Szint: 0.2600000000000007
+*******************************
+Csapat neve: Manchester United
+Bajnoki helyezés: 6
+Edzések/pihenések száma: 6/4 db
+Játék eredménye: NYERT
+Új Edzettségi Szint: 10.7
+Új Energia Szint: -5.3199999999999985
+*******************************
+Csapat neve: Chelsea
+Bajnoki helyezés: 10
+Edzések/pihenések száma: 6/6 db
+Játék eredménye: DÖNTETLEN
+Új Edzettségi Szint: 10.999999999999998
+Új Energia Szint: -5.9
+*******************************
+Csapat neve: Arsenal
+Bajnoki helyezés: 15
+Edzések/pihenések száma: 2/1 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.8
+Új Energia Szint: 0.7799999999999998
+*******************************
+Csapat neve: Lombard Pápa
+Bajnoki helyezés: 12
+Edzések/pihenések száma: 8/8 db
+Játék eredménye: DÖNTETLEN
+Új Edzettségi Szint: 10.799999999999999
+Új Energia Szint: -10.36
+*******************************
+Csapat neve: AC Milan
+Bajnoki helyezés: 40
+Edzések/pihenések száma: 7/7 db
+Játék eredménye: DÖNTETLEN
+Új Edzettségi Szint: 9.099999999999998
+Új Energia Szint: -6.34
+*******************************
+Csapat neve: Liverpool
+Bajnoki helyezés: 31
+Edzések/pihenések száma: 2/1 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.8
+Új Energia Szint: 1.6600000000000001
+*******************************
+Csapat neve: Spanyolország
+Bajnoki helyezés: 33
+Edzések/pihenések száma: 1/0 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.7
+Új Energia Szint: 6.1
+*******************************
+Csapat neve: Borussia Dortmund
+Bajnoki helyezés: 19
+Edzések/pihenések száma: 1/0 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.4
+Új Energia Szint: 5.1
+*******************************
+Csapat neve: Manchester City
+Bajnoki helyezés: 79
+Edzések/pihenések száma: 2/2 db
+Játék eredménye: NYERT
+Új Edzettségi Szint: 9.5
+Új Energia Szint: -0.8799999999999999
+*******************************
+Csapat neve: Debreceni VSC
+Bajnoki helyezés: 66
+Edzések/pihenések száma: 5/5 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.0
+Új Energia Szint: -6.28
+*******************************
+Csapat neve: Inter
+Bajnoki helyezés: 45
+Edzések/pihenések száma: 4/4 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 9.599999999999998
+Új Energia Szint: -6.52
+*******************************
+Csapat neve: Paris St. Germain
+Bajnoki helyezés: 32
+Edzések/pihenések száma: 1/1 db
+Játék eredménye: DÖNTETLEN
+Új Edzettségi Szint: 10.4
+Új Energia Szint: 1.7399999999999998
+*******************************
+Csapat neve: Atlético Madrid
+Bajnoki helyezés: 61
+Edzések/pihenések száma: 4/4 db
+Játék eredménye: DÖNTETLEN
+Új Edzettségi Szint: 9.9
+Új Energia Szint: -4.840000000000001
+*******************************
+Csapat neve: Németország
+Bajnoki helyezés: 77
+Edzések/pihenések száma: 2/2 db
+Játék eredménye: VESZTETT
+Új Edzettségi Szint: 10.2
+Új Energia Szint: -3.6199999999999997
+*******************************

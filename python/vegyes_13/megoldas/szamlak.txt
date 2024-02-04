@@ -1,0 +1,100 @@
+Név: Anna
+Azonosító: A
+Sorszám: #492
+Fizetendő: 45 perc * 15 Ft = 608 Ft
+----------------------------------
+Név: Béla
+Azonosító: B
+Sorszám: #407
+Fizetendő: 64 perc * 12 Ft = 768 Ft
+----------------------------------
+Név: Cecília
+Azonosító: D
+Sorszám: #347
+Fizetendő: 83 perc * 20 Ft = 1660 Ft
+----------------------------------
+Név: Dániel
+Azonosító: A
+Sorszám: #554
+Fizetendő: 51 perc * 18 Ft = 826 Ft
+----------------------------------
+Név: Emma
+Azonosító: C
+Sorszám: #593
+Fizetendő: 72 perc * 14 Ft = 907 Ft
+----------------------------------
+Név: Ferenc
+Azonosító: A
+Sorszám: #305
+Fizetendő: 68 perc * 16 Ft = 979 Ft
+----------------------------------
+Név: Gizella
+Azonosító: D
+Sorszám: #549
+Fizetendő: 92 perc * 10 Ft = 920 Ft
+----------------------------------
+Név: Hanna
+Azonosító: A
+Sorszám: #392
+Fizetendő: 76 perc * 11 Ft = 752 Ft
+----------------------------------
+Név: István
+Azonosító: B
+Sorszám: #553
+Fizetendő: 96 perc * 21 Ft = 2016 Ft
+----------------------------------
+Név: Júlia
+Azonosító: C
+Sorszám: #598
+Fizetendő: 57 perc * 13 Ft = 667 Ft
+----------------------------------
+Név: Károly
+Azonosító: A
+Sorszám: #342
+Fizetendő: 79 perc * 17 Ft = 1209 Ft
+----------------------------------
+Név: Lilla
+Azonosító: D
+Sorszám: #373
+Fizetendő: 88 perc * 22 Ft = 1936 Ft
+----------------------------------
+Név: Márton
+Azonosító: A
+Sorszám: #433
+Fizetendő: 60 perc * 10 Ft = 540 Ft
+----------------------------------
+Név: Nóra
+Azonosító: B
+Sorszám: #521
+Fizetendő: 76 perc * 12 Ft = 912 Ft
+----------------------------------
+Név: Orsolya
+Azonosító: D
+Sorszám: #472
+Fizetendő: 95 perc * 15 Ft = 1425 Ft
+----------------------------------
+Név: Péter
+Azonosító: A
+Sorszám: #462
+Fizetendő: 37 perc * 19 Ft = 633 Ft
+----------------------------------
+Név: Réka
+Azonosító: B
+Sorszám: #600
+Fizetendő: 84 perc * 16 Ft = 1344 Ft
+----------------------------------
+Név: Sára
+Azonosító: C
+Sorszám: #439
+Fizetendő: 47 perc * 11 Ft = 465 Ft
+----------------------------------
+Név: Tamás
+Azonosító: A
+Sorszám: #574
+Fizetendő: 91 perc * 20 Ft = 1638 Ft
+----------------------------------
+Név: Zsófia
+Azonosító: D
+Sorszám: #304
+Fizetendő: 63 perc * 14 Ft = 882 Ft
+----------------------------------

@@ -1,0 +1,14 @@
+.myClass{
+    background-image: url('./img/header_bg.jpg');
+    height: 30rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#myPadding{
+    padding-top:4rem;
+}
+span{
+    background-color: rgba(46, 0, 0, 0.6);
+    padding:3px;
+    color:white;
+}   
